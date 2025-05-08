@@ -1,6 +1,7 @@
 ﻿# ContextualLabels for Omeka Classic
 
 **ContextualLabels** is a plugin for [Omeka Classic](https://omeka.org/classic/) that dynamically changes the **labels and descriptions** of Dublin Core fields based on the **item type** and **active language**.
+
 NB : I shared the first working version to my use case, this is definitely not a complete work. 
 This plugin is especially useful for cultural heritage, architecture, and academic projects where metadata fields need contextualized labels like:
 
