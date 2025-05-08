@@ -1,0 +1,2 @@
+"Abstract", "aaa", "bbb"
+"Access Rights", "xxx", "yyy"
