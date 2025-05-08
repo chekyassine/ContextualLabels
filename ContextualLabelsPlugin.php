@@ -69,7 +69,7 @@ public function filterDisplayElements($elementsBySet)
         error_log("[CL] ✅ hookInitialize triggered");
 
         $fields = ['Abstract','Access Rights'
-		// ,'Accrual Method','Accrual Periodicity','Accrual Policy','Alternative Title','Audience','Audience Education Level','Bibliographic Citation','Conforms To','Contributor','Coverage','Creator','Date','Date Accepted','Date Available','Date Copyrighted','Date Created','Date Issued','Date Modified','Date Submitted','Date Valid','Description','Extent','Format','Has Format','Has Part','Has Version','Identifier','Instructional Method','Is Format Of','Is Part Of','Is Referenced By','Is Replaced By','Is Required By','Is Version Of','Language','License','Mediator','Medium','Provenance','Publisher','References','Relation','Replaces','Requires','Rights','Rights Holder','Source','Spatial Coverage','Subject','Table Of Contents','Temporal Coverage','Title','Type'
+		 ,'Accrual Method','Accrual Periodicity','Accrual Policy','Alternative Title','Audience','Audience Education Level','Bibliographic Citation','Conforms To','Contributor','Coverage','Creator','Date','Date Accepted','Date Available','Date Copyrighted','Date Created','Date Issued','Date Modified','Date Submitted','Date Valid','Description','Extent','Format','Has Format','Has Part','Has Version','Identifier','Instructional Method','Is Format Of','Is Part Of','Is Referenced By','Is Replaced By','Is Required By','Is Version Of','Language','License','Mediator','Medium','Provenance','Publisher','References','Relation','Replaces','Requires','Rights','Rights Holder','Source','Spatial Coverage','Subject','Table Of Contents','Temporal Coverage','Title','Type'
 		];
 
         foreach ($fields as $field) {
